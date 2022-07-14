@@ -1,0 +1,18 @@
+Installation order:
+
+v1.6.323.0 ------> v1.6.342.0 ------> v1.6.353.0
+
+Tutorial
+
+1. Copy the contents of Update folder to your game's root folder (the one with SkyrimSE.exe)
+2. Run .bat file and wait until update is done.
+3. Once you have installed all three updates copy the crack of your choice from the Cracks folder.
+   Overwrite if prompted. If you receive an error when launching the game try a different crack.
+
+PS: Make sure to install ALL three patches and in correct ORDER.
+
+Crack Installation tutorial
+
+Open Crack folder, then u will see different folders with names of different repackers, open anyone of them ,and finally
+copy paste the content from that repacker's folder to your game folder, do same for the next two patches, ignore everything else in the folder ,u don't need it, simple as that.
+Also overwrite when prompted
